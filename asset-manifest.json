@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/search-books-ts/static/css/main.8ce02098.chunk.css",
+    "main.js": "/search-books-ts/static/js/main.1262a610.chunk.js",
+    "main.js.map": "/search-books-ts/static/js/main.1262a610.chunk.js.map",
+    "runtime-main.js": "/search-books-ts/static/js/runtime-main.639e8b01.js",
+    "runtime-main.js.map": "/search-books-ts/static/js/runtime-main.639e8b01.js.map",
+    "static/js/2.d8886299.chunk.js": "/search-books-ts/static/js/2.d8886299.chunk.js",
+    "static/js/2.d8886299.chunk.js.map": "/search-books-ts/static/js/2.d8886299.chunk.js.map",
+    "static/js/3.391a5ed9.chunk.js": "/search-books-ts/static/js/3.391a5ed9.chunk.js",
+    "static/js/3.391a5ed9.chunk.js.map": "/search-books-ts/static/js/3.391a5ed9.chunk.js.map",
+    "index.html": "/search-books-ts/index.html",
+    "static/css/main.8ce02098.chunk.css.map": "/search-books-ts/static/css/main.8ce02098.chunk.css.map",
+    "static/js/2.d8886299.chunk.js.LICENSE.txt": "/search-books-ts/static/js/2.d8886299.chunk.js.LICENSE.txt",
+    "static/media/BookPopup.css": "/search-books-ts/static/media/close-icon.b9c42c3d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.639e8b01.js",
+    "static/js/2.d8886299.chunk.js",
+    "static/css/main.8ce02098.chunk.css",
+    "static/js/main.1262a610.chunk.js"
+  ]
+}
