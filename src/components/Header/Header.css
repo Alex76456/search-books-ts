@@ -1,0 +1,18 @@
+header {
+	padding: 20px 165px 10px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 1px solid #e2e5e6;
+}
+
+.header__title {
+	margin: 5px;
+}
+
+.header__title-accent {
+	text-transform: uppercase;
+	color: #f20;
+	font-size: 36px;
+}
